@@ -15,6 +15,11 @@ $humain->setNom("Votre nom");
 $dragon = new Dragon();
 $dragon->setNom("");
 
+$princesse = new Princesse();
+$princesse->setNom("");
+
+$sorcier = new Sorcier();
+$sorcier->setNom("");
 
 
 
